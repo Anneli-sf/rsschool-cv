@@ -4,7 +4,7 @@
 ## **Contacts**
 * **Phone**: +48730211767
 * **E-mail**: foranneli@gmail.com
-* [**GitHub**] (https://github.com/Anneli-sf)
+* [GitHub] (https://github.com/Anneli-sf "GitHub")
 * [**LinkedIn**] (https://www.linkedin.com/in/anneli-savchenko-b9255b3a/)
 ***
 
