@@ -4,8 +4,8 @@
 ## **Contacts**
 * **Phone**: +48730211767
 * **E-mail**: foranneli@gmail.com
-* [**GitHub**] (https://github.com/Anneli-sf)
-* [**LinkedIn**] (https://www.linkedin.com/in/anneli-savchenko-b9255b3a/)
+* [**GitHub**](https://github.com/Anneli-sf)
+* [**LinkedIn**](https://www.linkedin.com/in/anneli-savchenko-b9255b3a/)
 ***
 
 
@@ -39,14 +39,14 @@ function multiply(a, b) {
 ## **Education**
 * **2005-2010** Belarusian National Technical University / Marketing, Management, Entrepreneurship
 * **2021 Courses**
-    * "HTML5, CSS3" [WebCamedy.ru] (https://webcademy.ru/index.html#free)
-    * "HTML, CSS" [CodeBasics] (https://ru.code-basics.com/languages/html)
+    * "HTML5, CSS3" [WebCamedy.ru](https://webcademy.ru/index.html#free)
+    * "HTML, CSS" [CodeBasics](https://ru.code-basics.com/languages/html)
 ***
 
 ## **Languages**
 * Russian, Belorussian - Native
-* English - B1 (according to the [test] (https://test.str.by/) [StreamLine] (https://str.by/))
-* Polish - A1.2 (keep learning in [Accent Polish School] (https://polishforforeigners.com/) )
+* English - B1 (according to the [test](https://test.str.by/) [StreamLine](https://str.by/))
+* Polish - A1.2 (keep learning in [Accent Polish School](https://polishforforeigners.com/) )
 
 
 
