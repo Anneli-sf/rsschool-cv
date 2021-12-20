@@ -4,13 +4,20 @@
 ## **Contacts**
 * **Phone**: +48730211767
 * **E-mail**: foranneli@gmail.com
-* [GitHub] (https://github.com/Anneli-sf "GitHub")
+* [**GitHub**] (https://github.com/Anneli-sf)
 * [**LinkedIn**] (https://www.linkedin.com/in/anneli-savchenko-b9255b3a/)
 ***
 
 
 ## **About me**
-some text
+*Hey, I'm Anneli and I'm 33 y.o.*
+
+*For the last five years I've been working as a marketing export specialist in producing decorative and skincare cosmetics.* 
+
+*Recently, i've been fond of Web-development and want to start my career in this sphere.
+Among my soft skills are hard-working, keeping learning, perfectionism and sociability.*
+
+*My goal is to become a professional FrontEnd Developer and to provide future clients and colleagues with high-quality results.* 
 ***
 
 
@@ -23,7 +30,9 @@ some text
 
 ## **Code example**
 ```
-
+function multiply(a, b) {
+    return a*b;
+} 
 ```
 ***
 
