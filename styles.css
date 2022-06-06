@@ -27,7 +27,7 @@ a:focus:after {
 }
 
 .header {
-    /* margin-bottom: 5px; */
+  
     position: absolute;
     width: 100%;
 }
