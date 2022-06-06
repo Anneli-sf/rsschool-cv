@@ -71,14 +71,6 @@ a:focus:after {
     color: #ffffff;
 }
 
-.burger-button {
-    display: none;
-}
-
-.burger-menu {
-    width: 100%;
-}
-
 .main {
     padding-top: 65px;
 }
@@ -186,8 +178,6 @@ a:focus:after {
     text-align: justify;
 }
 
-.experience {
-}
 .experience-education,
 .education-item {
     display: flex;
